@@ -1,5 +1,5 @@
 {
-  "name": "one-antd-test",
+  "name": "ls-one-antd-test",
   "version": "1.0.0",
   "description": "for package test",
   "main": "dist/bundle.js",
