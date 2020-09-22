@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { NewButton } from './components';
+// import NewButton from 'ls-one-antd-test';
 
 function App() {
   return (

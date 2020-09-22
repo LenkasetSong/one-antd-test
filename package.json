@@ -8,9 +8,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "set NODE_ENV='development' && webpack-dev-server",
-    "dev": "set NODE_ENV='development' && webpack-dev-server",
-    "build": "set NODE_ENV='production' && webpack"
+    "start": "export NODE_ENV='development' && webpack-dev-server",
+    "dev": "export NODE_ENV='development' && webpack-dev-server",
+    "build": "export NODE_ENV='production' && webpack"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lenkasetGitHub/one-antd-test#readme",
   "dependencies": {
+    "ls-one-antd-test": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
