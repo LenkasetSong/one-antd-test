@@ -1,6 +1,6 @@
 {
   "name": "ls-one-antd-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for package test",
   "main": "dist/bundle.js",
   "files": [
